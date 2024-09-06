@@ -8,7 +8,7 @@ function AnimeList() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("/anime-list.json")
+    fetch("https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/anime-list.json")
       .then((response) => response.json())
       .then((data) => {
         setData(data);
