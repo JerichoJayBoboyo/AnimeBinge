@@ -9,7 +9,7 @@
             "Dark fantasy",
             "Martial Arts"
         ],
-        "img": "/demonslayer.png"
+        "img": "https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/demonslayer.png"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
             "Martial Arts",
             "Romance"
         ],
-        "img": "/flameofrecca.png"
+        "img": "https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/flameofrecca.png"
     },
     {
         "id": 3,
@@ -45,7 +45,7 @@
             "Dark fantasy",
             "Martial Arts"
         ],
-        "img": "/jujutsukaisen.png"
+        "img": "https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/jujutsukaisen.png"
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
             "Comedy",
             "Family"
         ],
-        "img": "/onepiece.png"
+        "img": "https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/onepiece.png"
     },
     {
         "id": 6,
@@ -69,7 +69,7 @@
             "Action",
             "Comedy"
         ],
-        "img": "/slamdunk.png"
+        "img": "https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/slamdunk.png"
     },
     {
         "id": 7,
@@ -81,6 +81,6 @@
             "Dark fantasy",
             "Supernatural"
         ],
-        "img": "/aot.png"
+        "img": "https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/aot.png"
     }
 ]
