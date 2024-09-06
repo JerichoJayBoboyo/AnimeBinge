@@ -1,0 +1,128 @@
+nav {
+    width: 100%;
+    height: min(150px, 15vh);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0%;
+    z-index: 10;
+    background: linear-gradient(to top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.7) 40%, rgba(0,0,0,1) 100%);
+}
+.nav-cntr {
+    width: min(1450px, 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px min(80px, 5%);
+}
+.logo-cntr {
+    font-size: clamp(1.4rem, 1.5vw, 1.5rem);
+    font-family:  var(--font-fam-2);
+    font-weight: 600;
+}
+.navlinks {
+    display: flex;
+    gap: 50px;
+}
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: min(70px, 5vw);
+}
+.nav-links-icon {
+    display: none;
+    gap: 10px;
+}
+.nav-links-icon button{
+    padding: 10px;
+    background: none;
+    background-color: none;
+    border: none;
+    font-size: 1.5rem;
+    color: white;
+}
+#bars {
+    display: initial;
+}
+#ex {
+    display: none;
+}
+.links a {
+    font-family: var(--font-fam-1);
+    font-size: clamp(0.9rem, 1.2vw, 1rem);
+    text-decoration: none;
+    font-weight: 300;
+    transition: 0.2s all linear;
+}
+.links a:hover {
+    color: var(--color-2);
+}
+.account-cntr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.account-cntr button {
+    font-size: 1rem;
+    border-radius: 5px;
+    background: none;
+    padding: 12px 25px;
+}
+#signup-btn {
+    border: 1px solid white;
+}
+#signup-btn:hover {
+    border: 1px solid var(--color-1);
+    background: var(--color-1);
+}
+#login-btn {
+    border: 2px solid var(--color-1);
+    background: var(--color-1);
+}
+#login-btn:hover {
+    border: 2px solid #0c4b5e;
+    background: #0c4b5e;
+}
+#user {
+    background: var(--color-1);
+    padding: 10px;
+    font-size: 1.5rem;
+    width: 45px;
+    height: 45px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    text-align: center;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+/*===================== MEDIA QUERIES =====================*/
+@media only screen and (max-width: 800px) {
+   #signup-btn, #login-btn {
+        display: none;
+   }
+   .nav-links-icon {
+        display: flex;
+   }
+   #user {
+    display: flex;
+   }
+   .links {
+        background-color: rgb(0, 0, 0, 0.8);
+        padding: 20px;
+        position: fixed;
+        right: 0;
+        flex-direction: column;
+        height: calc(100vh - min(150px, 15vh));
+        width: min(250px, 50vw);
+        justify-content: start;
+        padding-top: 50px;
+        bottom: 0;
+        font-weight: 800;
+        transition: all 0.2s linear;
+   }
+}

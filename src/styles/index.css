@@ -1,0 +1,21 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    color: white;
+}
+button, a {
+    cursor: pointer;
+    transition: 0.2s all linear;
+}
+body {
+    background: #030303;
+}
+:root {
+    --font-fam-1: "Montserrat", sans-serif;
+    --font-fam-2: "Poppins", sans-serif;
+    --font-fam-3: "PT Sans", sans-serif;
+
+    --color-1: #106580;
+    --color-2: #f7c900;
+}

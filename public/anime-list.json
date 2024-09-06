@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Kimetsu No Yaiba",
+        "description": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.",
+        "ratings": 5,
+        "category": [
+            "Adventure fiction",
+            "Dark fantasy",
+            "Martial Arts"
+        ],
+        "img": "/demonslayer.png"
+    },
+    {
+        "id": 2,
+        "name": "Flame of Recca",
+        "description": "Most people think that ninjas are a thing of the past, but Rekka Hanabishi wishes otherwise. Although he comes from a family that makes fireworks, he likes to think of himself as a self-styled, modern-day ninja. Sounds like fun, right? Maybe not. Rekka ends up in lots of fights because he once made the bold announcement that if someone can defeat him, he will become their servant.",
+        "ratings": 5,
+        "category": [
+            "Adventure fiction",
+            "Martial Arts",
+            "Romance"
+        ],
+        "img": "/flameofrecca.png"
+    },
+    {
+        "id": 3,
+        "name": "Ghost Fighter",
+        "description": "One fateful day, Yuusuke Urameshi, a 14-year-old delinquent with a dim future, gets a miraculous chance to turn it all around when he throws himself in front of a moving car to save a young boy. His ultimate sacrifice is so out of character that the authorities of the spirit realm are not yet prepared to let him pass on. Koenma, heir to the throne of the spirit realm, offers Yuusuke an opportunity to regain his life through completion of a series of tasks. With the guidance of the death god Botan, he is to thwart evil presences on Earth as a Spirit Detective.",
+        "ratings": 5,
+        "category": [
+            "Adventure fiction",
+            "Dark fantasy",
+            "Action"
+        ],
+        "img": "/ghostfighter.png"
+    },
+    {
+        "id": 4,
+        "name": "Jujutsu Kaisen",
+        "description": "Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the King of Curses.",
+        "ratings": 5,
+        "category": [
+            "Adventure fiction",
+            "Dark fantasy",
+            "Martial Arts"
+        ],
+        "img": "/jujutsukaisen.png"
+    },
+    {
+        "id": 5,
+        "name": "One Piece",
+        "description": "Barely surviving in a barrel after passing through a terrible whirlpool at sea, carefree Monkey D. Luffy ends up aboard a ship under attack by fearsome pirates. Despite being a naive-looking teenager, he is not to be underestimated. Unmatched in battle, Luffy is a pirate himself who resolutely pursues the coveted One Piece treasure and the King of the Pirates title that comes with it.",
+        "ratings": 5,
+        "category": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "img": "/onepiece.png"
+    },
+    {
+        "id": 6,
+        "name": "Slam Dunk",
+        "description": "Hanamichi Sakuragi, infamous for his temper, massive height, and fire-red hair, enrolls in Shohoku High, hoping to finally get a girlfriend and break his record of being rejected 50 consecutive times in middle school. His notoriety precedes him, however, leading to him being avoided by most students. Soon, after certain events, Hanamichi is left with two unwavering thoughts: ",
+        "ratings": 5,
+        "category": [
+            "Sports",
+            "Action",
+            "Comedy"
+        ],
+        "img": "/slamdunk.png"
+    },
+    {
+        "id": 7,
+        "name": "Attack on Titan",
+        "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
+        "ratings": 5,
+        "category": [
+            "Adventure fiction",
+            "Dark fantasy",
+            "Supernatural"
+        ],
+        "img": "/aot.png"
+    }
+]
