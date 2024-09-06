@@ -117,7 +117,7 @@ function AnimeList() {
                 <div className="episodes-main-cntr">
                   <div className="episode-cntr">
                     <div className="episode-img-cntr">
-                      <img src="../public/ep1-img1.png" alt="" />
+                      <img src="https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/ep1-img1.png" alt="" />
                     </div>
                     <div className="episode-number-summary">
                       <span className="episode-num">Episode 1</span>
@@ -130,7 +130,7 @@ function AnimeList() {
                   </div>
                   <div className="episode-cntr">
                     <div className="episode-img-cntr">
-                      <img src="../public/ep2-img1.png" alt="" />
+                      <img src="https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/ep2-img1.png" alt="" />
                     </div>
                     <div className="episode-number-summary">
                       <span className="episode-num">Episode 2</span>
@@ -143,7 +143,7 @@ function AnimeList() {
                   </div>
                   <div className="episode-cntr">
                     <div className="episode-img-cntr">
-                      <img src="../public/ep3-img1.png" alt="" />
+                      <img src="https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/ep3-img1.png" alt="" />
                     </div>
                     <div className="episode-number-summary">
                       <span className="episode-num">Episode 3</span>
@@ -156,7 +156,7 @@ function AnimeList() {
                   </div>
                   <div className="episode-cntr">
                     <div className="episode-img-cntr">
-                      <img src="../public/ep4-img1.png" alt="" />
+                      <img src="https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/ep4-img1.png" alt="" />
                     </div>
                     <div className="episode-number-summary">
                       <span className="episode-num">Episode 4</span>
