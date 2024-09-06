@@ -11,7 +11,7 @@ function Hero() {
 
   // Fetch the JSON data when the component mounts
   useEffect(() => {
-    fetch("/anime-list.json")
+    fetch("https://raw.githubusercontent.com/JerichoJayBoboyo/AnimeBinge/main/public/anime-list.json")
       .then((response) => response.json())
       .then((data) => {
         setAnimeList(data); // Set the list of anime
